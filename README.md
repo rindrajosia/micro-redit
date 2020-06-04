@@ -4,30 +4,13 @@
     <img src="app/assets/images/microverse.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Building with Active Record -- [Micro_Reddit]</h3>
+  <h2 align="center">Building with Active Record</h2>
 
   <p align="center">
     This project is part of the Microverse curriculum in Ruby on Rails module!
-    <br />
-    <a href="https://github.com/rammazzoti2000/micro_reddit"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/rammazzoti2000/micro_reddit/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/rammazzoti2000/micro_reddit/issues">Request Feature</a>
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-* [License](#license)
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 This project we created a junior version [Reddit](https://www.reddit.com/) called micro-reddit, it is based on active record models, a user can create a post or create a comment of the post, it is running using the terminal, no user interface yet.
