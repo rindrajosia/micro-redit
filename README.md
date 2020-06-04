@@ -38,7 +38,7 @@ You need to have this app or tools to start using it:
 
 👤 **Rindra josia** 
 
-- GitHub: [@vzdrizhni](https://github.com/rindrajosia)
+- GitHub: [@rindrajosia](https://github.com/rindrajosia)
 
 👤 **Ngenzi Herve**
 
