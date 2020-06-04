@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/rammazzoti2000/micro_reddit">
+  <a href="https://www.microverse.org/">
     <img src="app/assets/images/microverse.png" alt="Logo" width="80" height="80">
   </a>
 
